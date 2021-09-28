@@ -1,0 +1,16 @@
+{
+    "name": "dodocierny/superfaktura_zadanie3",
+    "authors": [
+        {
+            "name": "Dodo Cierny",
+            "email": "info@dodocierny.sk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+    }
+}
